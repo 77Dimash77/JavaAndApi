@@ -2,7 +2,7 @@
 // (сумма чисел от 1 до n), n! 
 // (произведение чисел от 1 до n)
 import java.util.Scanner;
-public class Homework1 {
+public class Homework1_1 {
   public static void main(String[] args) {
     Scanner n = new Scanner(System.in);
     System.out.printf("введите число n: ");

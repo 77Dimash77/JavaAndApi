@@ -10,7 +10,7 @@
 // sc.nextLine() -- считывает всю строчку
 // sc.nextInt() -- считывает число, но без перехода на след. строчку
 import java.util.Scanner;
-public class Homework111 {
+public class Homework1_3 {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     System.out.printf("введите первое число: ");
